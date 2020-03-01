@@ -2,7 +2,7 @@
 
 #Nightingale Chart
 
-![Nightingale](Nightingale/Nightingale.png)
+![Nightingale](Nightingale/Nightingale.jpg)
 
 #Minard Chart
 
