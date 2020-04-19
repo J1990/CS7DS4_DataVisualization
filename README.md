@@ -7,3 +7,6 @@
 #Minard Chart
 
 ![Minard](Minard/CombinedPlot.png)
+
+#Novel Visualization
+![NovelVis](NovelVisualization/Thumbnail.png)
